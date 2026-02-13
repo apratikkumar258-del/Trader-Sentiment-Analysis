@@ -1,0 +1,9 @@
+segment,classification,Closed PnL
+Frequent,Extreme Greed,26.658318667153495
+Frequent,Fear,46.01394991949431
+Frequent,Greed,70.5758983372967
+Frequent,Neutral,4.055615038535361
+Infrequent,Extreme Greed,-48.382749043478256
+Infrequent,Fear,75.63987305009053
+Infrequent,Greed,234.88642398797387
+Infrequent,Neutral,356.72200386413044
